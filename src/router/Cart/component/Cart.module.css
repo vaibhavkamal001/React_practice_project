@@ -1,0 +1,9 @@
+.btn{
+  margin-top: 30%;
+  padding: 2rem;
+  background-color: rgb(100, 13, 13);
+  color: aliceblue;
+  border-radius: 14px;
+  font-size: larger;
+  text-decoration: none;
+}
